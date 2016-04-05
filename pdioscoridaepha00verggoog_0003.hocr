@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./pdioscoridaepha00verggoog_0003.png"; bbox 0 0 4559 6617; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 351 2888 1835 3253">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 2888 1835 3243">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 2888 1835 3092; baseline -0.009 -52.392"><span class='ocrx_word' id='word_1_1' title='bbox 353 2888 891 3092; x_wconf 42' lang='grc' dir='ltr'><em>ἄχθεα·</em></span> <span class='ocrx_word' id='word_1_2' title='bbox 939 2940 1388 3075; x_wconf 20' lang='lat'><em>66724627‘11</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 1370 2964 1486 3010; x_wconf 59' lang='lat' dir='ltr'>C</span> <span class='ocrx_word' id='word_1_4' title='bbox 1529 2909 1835 3058; x_wconf 44' lang='lat' dir='ltr'><em>„casios</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 351 3097 1811 3253; baseline -0.003 -31.579"><span class='ocrx_word' id='word_1_5' title='bbox 351 3107 746 3243; x_wconf 52' lang='lat' dir='ltr'><strong><em>A</em></strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 765 3100 1213 3253; x_wconf 44' lang='lat'><em>2757</em></span> <span class='ocrx_word' id='word_1_7' title='bbox 1264 3100 1425 3157; x_wconf 55' lang='lat'><em>‘³</em></span> <span class='ocrx_word' id='word_1_8' title='bbox 1698 3097 1751 3105; x_wconf 34' lang='lat'>³</span> <span class='ocrx_word' id='word_1_9' title='bbox 1802 3098 1811 3103; x_wconf 76' lang='grc'><strong>’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1944 2951 2812 3063">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1844 2951 2812 3073">
+     <span class='ocr_line' id='line_1_3' title="bbox 1944 2951 2812 3063; baseline -0.014 10.554"><span class='ocrx_word' id='word_1_10' title='bbox 1944 2987 2068 3057; x_wconf 51' lang='grc' dir='ltr'><em>α(</em></span> <span class='ocrx_word' id='word_1_11' title='bbox 2083 2992 2317 3045; x_wconf 46' lang='grc' dir='ltr'><em>ἄν’ἥθ</em></span> <span class='ocrx_word' id='word_1_12' title='bbox 2314 2972 2414 3046; x_wconf 59' lang='lat' dir='ltr'><em>s),</em></span> <span class='ocrx_word' id='word_1_13' title='bbox 2452 2951 2835 3063; x_wconf 52' lang='lat' dir='ltr'><em>sfaaffl</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2092 3086 2277 3097">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2092 3086 2277 3097">
+     <span class='ocr_line' id='line_1_4' title="bbox 2092 3086 2277 3097; baseline -0.018 0"><span class='ocrx_word' id='word_1_14' title='bbox 2092 3086 2277 3097; x_wconf 45' lang='lat' dir='ltr'><em>,aona-..01</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 1782 2978 1933 3117">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 1782 2978 1933 3117">
+     <span class='ocr_line' id='line_1_5' title="bbox 1782 2978 1933 3117; baseline 0 3500"><span class='ocrx_word' id='word_1_15' title='bbox 1782 2978 1933 3117; x_wconf 95' lang='lat' dir='ltr'><em> </em></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
